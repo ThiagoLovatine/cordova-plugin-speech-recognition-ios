@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Blrrt/cordova-plugin-speech-recognition-ios"
+    "url": "git+https://github.com/ThiagoLovatine/cordova-plugin-speech-recognition-ios"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -27,7 +27,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Blrrt/cordova-plugin-speech-recognition-ios/issues"
+    "url": "https://github.com/ThiagoLovatine/cordova-plugin-speech-recognition-ios/issues"
   },
-  "homepage": "https://github.com/Blrrt/cordova-plugin-speech-recognition-ios/wazelink"
+  "homepage": "https://github.com/ThiagoLovatine/cordova-plugin-speech-recognition-ios"
 }
